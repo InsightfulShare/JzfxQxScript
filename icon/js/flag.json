@@ -1,57 +1,106 @@
 {
-    "name": "InsightfulShare",
-    "description": "这是一个使用PNG格式的国旗图标集,仅供个人使用",
-    "icons": [
-      {
-        "name": "China",
-        "url": "https://flagcdn.com/w160/cn.png"
-      },
-      "name": "HongKong",
-        "url": "https://flagcdn.com/w160/hk.png"
-      },
-      {
-        "name": "USA",
-        "url": "https://flagcdn.com/w160/us.png"
-      },
-      {
-        "name": "UK",
-        "url": "https://flagcdn.com/w160/gb.png"
-      },
-      {
-        "name": "France",
-        "url": "https://flagcdn.com/w160/fr.png"
-      },
-      {
-        "name": "Germany",
-        "url": "https://flagcdn.com/w160/de.png"
-      },
-      {
-        "name": "Japan",
-        "url": "https://flagcdn.com/w160/jp.png"
-      },
-      {
-        "name": "Italy",
-        "url": "https://flagcdn.com/w160/it.png"
-      },
-      {
-        "name": "Canada",
-        "url": "https://flagcdn.com/w160/ca.png"
-      },
-      {
-        "name": "Australia",
-        "url": "https://flagcdn.com/w160/au.png"
-      },
-      {
-        "name": "Malaysia",
-        "url": "https://flagcdn.com/w160/my.png"
-      },
-      {
-        "name": "Philippines",
-        "url": "https://flagcdn.com/w160/ph.png"
-      },
-      {
-        "name": "Brazil",
-        "url": "https://flagcdn.com/w160/br.png"
-      }
-    ]
-  }
+  "name": "InsightfulShare",
+  "description": "这是一个使用小尺寸PNG格式的国旗图标集,包含多个国家和地区,仅供个人使用",
+  "icons": [
+    {
+      "name": "China",
+      "url": "https://flagcdn.com/48x36/cn.png"
+    },
+    {
+      "name": "USA",
+      "url": "https://flagcdn.com/48x36/us.png"
+    },
+    {
+      "name": "UK",
+      "url": "https://flagcdn.com/48x36/gb.png"
+    },
+    {
+      "name": "France",
+      "url": "https://flagcdn.com/48x36/fr.png"
+    },
+    {
+      "name": "Germany",
+      "url": "https://flagcdn.com/48x36/de.png"
+    },
+    {
+      "name": "Japan",
+      "url": "https://flagcdn.com/48x36/jp.png"
+    },
+    {
+      "name": "Italy",
+      "url": "https://flagcdn.com/48x36/it.png"
+    },
+    {
+      "name": "Canada",
+      "url": "https://flagcdn.com/48x36/ca.png"
+    },
+    {
+      "name": "Australia",
+      "url": "https://flagcdn.com/48x36/au.png"
+    },
+    {
+      "name": "Brazil",
+      "url": "https://flagcdn.com/48x36/br.png"
+    },
+    {
+      "name": "Russia",
+      "url": "https://flagcdn.com/48x36/ru.png"
+    },
+    {
+      "name": "India",
+      "url": "https://flagcdn.com/48x36/in.png"
+    },
+    {
+      "name": "South Korea",
+      "url": "https://flagcdn.com/48x36/kr.png"
+    },
+    {
+      "name": "Mexico",
+      "url": "https://flagcdn.com/48x36/mx.png"
+    },
+    {
+      "name": "Spain",
+      "url": "https://flagcdn.com/48x36/es.png"
+    },
+    {
+      "name": "Sweden",
+      "url": "https://flagcdn.com/48x36/se.png"
+    },
+    {
+      "name": "Switzerland",
+      "url": "https://flagcdn.com/48x36/ch.png"
+    },
+    {
+      "name": "Argentina",
+      "url": "https://flagcdn.com/48x36/ar.png"
+    },
+    {
+      "name": "Norway",
+      "url": "https://flagcdn.com/48x36/no.png"
+    },
+    {
+      "name": "Hong Kong",
+      "url": "https://flagcdn.com/48x36/hk.png"
+    },
+    {
+      "name": "Philippines",
+      "url": "https://flagcdn.com/48x36/ph.png"
+    },
+    {
+      "name": "Malaysia",
+      "url": "https://flagcdn.com/48x36/my.png"
+    },
+    {
+      "name": "Panama",
+      "url": "https://flagcdn.com/48x36/pa.png"
+    },
+    {
+      "name": "Czech Republic",
+      "url": "https://flagcdn.com/48x36/cz.png"
+    },
+    {
+      "name": "Netherlands",
+      "url": "https://flagcdn.com/48x36/nl.png"
+    }
+  ]
+}
