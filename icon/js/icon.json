@@ -481,6 +481,10 @@
     {
       "name": "zotero",
       "url": "https:\/\/raw.githubusercontent.com\/InsightfulShare\/JzfxQxScript\/main\/icon\/zotero.png"
+    },
+    {
+      "name": "neteasemusic",
+      "url": "https:\/\/raw.githubusercontent.com\/InsightfulShare\/JzfxQxScript\/main\/icon\/neteasemusic.png"
     }
   ]
 }
