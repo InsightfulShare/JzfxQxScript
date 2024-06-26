@@ -4,103 +4,103 @@
   "icons": [
     {
       "name": "China",
-      "url": "https://flagsapi.com/CN/flat/64.png"
+      "url": "https://flagcdn.com/144x108/cn.png"
     },
     {
       "name": "USA",
-      "url": "https://flagsapi.com/US/flat/64.png"
+      "url": "https://flagcdn.com/144x108/us.png"
     },
     {
       "name": "UK",
-      "url": "https://flagsapi.com/GB/flat/64.png"
+      "url": "https://flagcdn.com/144x108/gb.png"
     },
     {
       "name": "France",
-      "url": "https://flagsapi.com/FR/flat/64.png"
+      "url": "https://flagcdn.com/144x108/fr.png"
     },
     {
       "name": "Germany",
-      "url": "https://flagsapi.com/DE/flat/64.png"
+      "url": "https://flagcdn.com/144x108/de.png"
     },
     {
       "name": "Japan",
-      "url": "https://flagsapi.com/JP/flat/64.png"
+      "url": "https://flagcdn.com/144x108/jp.png"
     },
     {
       "name": "Italy",
-      "url": "https://flagsapi.com/IT/flat/64.png"
+      "url": "https://flagcdn.com/144x108/it.png"
     },
     {
       "name": "Canada",
-      "url": "https://flagsapi.com/CA/flat/64.png"
+      "url": "https://flagcdn.com/144x108/ca.png"
     },
     {
       "name": "Australia",
-      "url": "https://flagsapi.com/AU/flat/64.png"
+      "url": "https://flagcdn.com/144x108/au.png"
     },
     {
       "name": "Brazil",
-      "url": "https://flagsapi.com/BR/flat/64.png"
+      "url": "https://flagcdn.com/144x108/br.png"
     },
     {
       "name": "Russia",
-      "url": "https://flagsapi.com/RU/flat/64.png"
+      "url": "https://flagcdn.com/144x108/ru.png"
     },
     {
       "name": "India",
-      "url": "https://flagsapi.com/IN/flat/64.png"
+      "url": "https://flagcdn.com/144x108/in.png"
     },
     {
       "name": "South Korea",
-      "url": "https://flagsapi.com/KR/flat/64.png"
+      "url": "https://flagcdn.com/144x108/kr.png"
     },
     {
       "name": "Mexico",
-      "url": "https://flagsapi.com/MX/flat/64.png"
+      "url": "https://flagcdn.com/144x108/mx.png"
     },
     {
       "name": "Spain",
-      "url": "https://flagsapi.com/ES/flat/64.png"
+      "url": "https://flagcdn.com/144x108/es.png"
     },
     {
       "name": "Sweden",
-      "url": "https://flagsapi.com/SE/flat/64.png"
+      "url": "https://flagcdn.com/144x108/se.png"
     },
     {
       "name": "Switzerland",
-      "url": "https://flagsapi.com/CH/flat/64.png"
+      "url": "https://flagcdn.com/144x108/ch.png"
     },
     {
       "name": "Argentina",
-      "url": "https://flagsapi.com/AR/flat/64.png"
+      "url": "https://flagcdn.com/144x108/ar.png"
     },
     {
       "name": "Norway",
-      "url": "https://flagsapi.com/NO/flat/64.png"
+      "url": "https://flagcdn.com/144x108/no.png"
     },
     {
       "name": "Hong Kong",
-      "url": "https://flagsapi.com/HK/flat/64.png"
+      "url": "https://flagcdn.com/144x108/hk.png"
     },
     {
       "name": "Philippines",
-      "url": "https://flagsapi.com/PH/flat/64.png"
+      "url": "https://flagcdn.com/144x108/ph.png"
     },
     {
       "name": "Malaysia",
-      "url": "https://flagsapi.com/MY/flat/64.png"
+      "url": "https://flagcdn.com/144x108/my.png"
     },
     {
       "name": "Panama",
-      "url": "https://flagsapi.com/PA/flat/64.png"
+      "url": "https://flagcdn.com/144x108/pa.png"
     },
     {
       "name": "Czech Republic",
-      "url": "https://flagsapi.com/CZ/flat/64.png"
+      "url": "https://flagcdn.com/144x108/cz.png"
     },
     {
       "name": "Netherlands",
-      "url": "https://flagsapi.com/NL/flat/64.png"
+      "url": "https://flagcdn.com/144x108/nl.png"
     }
   ]
 }
